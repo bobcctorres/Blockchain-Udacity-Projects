@@ -9,6 +9,11 @@ Project 4 codes an integral part into this blockchain - the Mempool component. A
 
 Project 5 builds a DApp over Etherium (Star Notary) allowing one to register a star claimming it.
 
+Project 6 is the Architect of a Blockchain Supply Chain Solution for Music Industry managing its most common chain process since artist production through distribution and packing for sale on retailers.
+
+Project 7 deploys a Flight Surety DApp using smart contracts on solidity to manage user's requests for insurances on flight delays. Using Oracles to handle the notification on flight delay events.
+
+Project 8 Capstone - Real Estate Marketplace creates a secured Token and zk-SNARKs (ZoKrates) enhancing privacy and scalability while provides this token at OpenSea marketplace (project deployed to Rinkeby network).
 
 
 ### Prerequisites
